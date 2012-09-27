@@ -4,3 +4,19 @@
 *.jar
 *.war
 *.ear
+*/target/*
+*/nbproject/private/*
+
+# Mac
+.DS_Store
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Ignore catalog
+catalog.xml
+
+#Ingore backups scripts
+backupscripts
+
