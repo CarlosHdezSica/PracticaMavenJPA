@@ -4,8 +4,8 @@
 *.jar
 *.war
 *.ear
-*/target/*
-*/nbproject/private/*
+/target/*
+/nbproject/private/*
 
 # Mac
 .DS_Store
